@@ -1,7 +1,7 @@
 <!-- ====================== Banner ====================== -->
 
 <p align="center">
-  <img src="./Github-profile-benner.png" width="100%" alt="Banner" />
+  <img src="./banner img.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Maimuna 👋</h1>
