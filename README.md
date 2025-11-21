@@ -6,33 +6,33 @@
 
 <h1 align="center">Hi, I'm Maimuna 👋</h1>
 <div align="center">
-  <strong>I'm a passionate Frontend Web Developer | MERN Stack Learner | JavaScript, React.js, Node.js | 
-Building Modern Web Apps & Scalable Backends 🌍 | I love learning new technologies, solving complex problems, and sharing knowledge with the community. Outside of coding, I enjoy contributing to open-source projects and writing about web development. 💡</strong>
+  <strong>A passionate Full-Stack Developer specializing in the MERN Stack | JavaScript, React.js, Node.js, Express.js & MongoDB | Building modern, responsive web applications and scalable backends 🌍 | I love learning new technologies, solving complex problems, and sharing knowledge with the community. Outside of coding, I enjoy contributing to open-source projects and writing about web development. 💡</strong>
 </div>
 
 ---
 
 <!-- ====================== Typing Animation ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&lines=FRONTEND+Web+Developer;Love+Building+Modern+Web+Apps;Frontend+%7C+Backend+%7C+Database;Always+Learning+New+Things+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&lines=FULL-STACK+Web+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Frontend+%7C+Backend+%7C+Database;Always+Learning+New+Things+🚀" alt="Typing Animation" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-- 🤖 Passionate **Frontend Developer** specializing in **JavaScript, React.js, React Router, Next.js, and Tailwind CSS**
-- 🚀 Focused on **clean UI, responsive layouts, animations, and great user experiences**  
-- 💻 Enjoy **building interactive web applications and reusable UI components**  
-- 👩‍💻 Continuously learning **TypeScript, Node.js, Express.js, MongoDB, and advanced frontend patterns**   
-- 🎯 2025 Goal — Become a **professional Frontend Engineer / MERN Stack Developer**  
-- 📫 Reach me at: **maimuna84333@gmail.com**
+
+- 🤖 Passionate Full-Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 🚀 Focused on building modern web applications with clean UI, responsive layouts, and seamless user experiences
+- 💻 Enjoy creating interactive web apps, RESTful APIs, and reusable components
+- 👩‍💻 Continuously learning Next.js, TypeScript, and advanced full-stack development patterns
+- 🎯 2025 Goal — Become a professional Full-Stack Engineer and contribute more to open-source projects
+- 📫 Reach me at: maimuna84333@gmail.com
 
 ---
 
 ### 🧑‍💻 About Me Beyond Coding
 
-- 🛠 &nbsp; Exploring and building projects with <strong>JavaScript, TypeScript, React, Node.js, Express, MongoDB & Next.js</strong> — crafting dynamic, scalable, and modern web applications
+- 🛠 &nbsp; Exploring and building projects with <strong>JavaScript, React, Node.js, Express, MongoDB & Next.js</strong> — crafting dynamic, scalable, and modern web applications
 - 📚 &nbsp; Learning advanced **React** patterns and diving deeper into **Next.js**
 - 💡 &nbsp; Optimizing backend performance and building efficient APIs with **Node.js** and **Express.js**
 - 👩‍💻 &nbsp; Enhancing database design skills and working on **MongoDB** optimization
@@ -61,8 +61,7 @@ Building Modern Web Apps & Scalable Backends 🌍 | I love learning new technolo
 # ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maimuna03134&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maimuna03134&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maimuna03134&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=maimuna03134&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
