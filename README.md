@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Maimuna 👋</h1>
 <div align="center">
-  <strong>A passionate Full-Stack Developer specializing in the MERN Stack | JavaScript, React.js, Node.js, Express.js & MongoDB | Building modern, responsive web applications and scalable backends 🌍 | I love learning new technologies, solving complex problems, and sharing knowledge with the community. Outside of coding, I enjoy contributing to open-source projects and writing about web development. 💡</strong>
+  <strong>A passionate Frontend Developer specializing in building modern, responsive web applications with React, JavaScript, and TailwindCSS. I love crafting intuitive user interfaces and seamless user experiences while continuously exploring new technologies and best practices.💡</strong>
 </div>
 
 ---
