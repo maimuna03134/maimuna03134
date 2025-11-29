@@ -13,27 +13,26 @@
 
 <!-- ====================== Typing Animation ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Frontend+Web+Developer;React+%7C+JavaScript+%7C+TailwindCSS;Building+Modern+Web+Applications;MERN+Stack+Developer;Always+Learning+New+Things+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Frontend+Web+Developer;React+%7C+JavaScript+%7C+TailwindCSS;Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Web+Applications;MERN+Stack+Developer;Always+Learning+New+Things+🚀" alt="Typing Animation" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-
-- 🤖 Passionate Full-Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 🤖 **Frontend Developer** specializing in **React, JavaScript (ES6+), and TailwindCSS**
 - 🚀 Focused on building modern web applications with clean UI, responsive layouts, and seamless user experiences
-- 💻 Enjoy creating interactive web apps, RESTful APIs, and reusable components
-- 👩‍💻 Continuously learning Next.js, TypeScript, and advanced full-stack development patterns
-- 🎯 2025 Goal — Become a professional Full-Stack Engineer and contribute more to open-source projects
-- 📫 Reach me at: maimuna84333@gmail.com
+- 💻 Enjoy creating interactive web apps, RESTful APIs, and reusable React components
+- 👩‍💻 Currently exploring **Next.js** and advanced React patterns
+- 🎯 **2025 Goal** — Become a professional Frontend Engineer and contribute more to open-source projects
+- 📫 Reach me at: **maimuna84333@gmail.com**
 
 ---
 
 ### 🧑‍💻 About Me Beyond Coding
 
-- 🛠 &nbsp; Exploring and building projects with <strong>JavaScript, React, Node.js, Express, MongoDB & Next.js</strong> — crafting dynamic, scalable, and modern web applications
-- 📚 &nbsp; Learning advanced **React** patterns and diving deeper into **Next.js**
+- 🛠 &nbsp; Building projects with <strong>JavaScript, React, Node.js, Express, MongoDB </strong> — crafting dynamic, scalable, and modern web applications
+- 📚 &nbsp; Learning advanced **React** patterns and Exploring **Next.js**
 - 💡 &nbsp; Optimizing backend performance and building efficient APIs with **Node.js** and **Express.js**
 - 👩‍💻 &nbsp; Enhancing database design skills and working on **MongoDB** optimization
 - 📫 &nbsp; Reach me out: <strong>maimuna84333@gmail.com.</strong>
