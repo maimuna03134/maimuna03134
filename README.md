@@ -1,8 +1,7 @@
 <!-- ====================== Banner ====================== -->
 
 <p align="center">
-  <img src="./Screenshot 2025-11-19 103536.png
-" width="100%" alt="Banner" />
+  <img src="./Screenshot 2025-11-19 103536.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Maimuna 👋</h1>
@@ -14,7 +13,7 @@
 
 <!-- ====================== Typing Animation ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&lines=FULL-STACK+Web+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Frontend+%7C+Backend+%7C+Database;Always+Learning+New+Things+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Frontend+Web+Developer;React+%7C+JavaScript+%7C+TailwindCSS;Building+Modern+Web+Applications;MERN+Stack+Developer;Always+Learning+New+Things+🚀" alt="Typing Animation" />
 </p>
 
 ---
