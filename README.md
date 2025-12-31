@@ -58,23 +58,14 @@
 
 ---
 
-# ⚡ GitHub Activity
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maimuna03134&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/maimuna03134">
-    <img src="https://img.shields.io/github/followers/maimuna03134?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
-  </a>
-</p>
-
----
-
 # ⚡ GitHub Stats
-
-![](https://komarev.com/ghpvc/?username=maimuna03134&color=blueviolet&style=flat-square&label=Profile+Views)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maimuna03134&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maimuna03134&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimuna03134&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
