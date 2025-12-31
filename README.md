@@ -70,13 +70,11 @@
   </a>
 </p>
 
+---
+
 # ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maimuna03134&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maimuna03134&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maimuna03134&layout=compact&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=maimuna03134&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
