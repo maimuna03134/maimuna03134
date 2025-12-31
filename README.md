@@ -1,7 +1,7 @@
 <!-- ====================== Banner ====================== -->
 
 <p align="center">
-  <img src="./github banner" width="100%" alt="Banner" />
+  <img src="./github banner.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Maimuna 👋</h1>
