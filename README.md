@@ -60,6 +60,8 @@
 
 # ⚡ GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=maimuna03134&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maimuna03134&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maimuna03134&theme=tokyonight)
