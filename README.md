@@ -58,6 +58,18 @@
 
 ---
 
+# ⚡ GitHub Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maimuna03134&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/maimuna03134">
+    <img src="https://img.shields.io/github/followers/maimuna03134?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
+  </a>
+</p>
+
 # ⚡ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maimuna03134&show_icons=true&theme=tokyonight)
