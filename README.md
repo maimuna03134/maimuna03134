@@ -59,7 +59,8 @@
 ---
 
 # ⚡ GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maimuna03134)](https://github.com/maimuna03134/github-readme-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maimuna03134&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maimuna03134&theme=tokyonight&hide_border=true" height="160"/>
