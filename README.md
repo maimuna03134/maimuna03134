@@ -61,12 +61,13 @@
 # ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maimuna03134&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=maimuna03134&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" height="160"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maimuna03134&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimuna03134&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimuna03134&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=0" />
 </p>
+
 
 ---
 
